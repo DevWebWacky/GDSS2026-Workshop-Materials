@@ -36,7 +36,7 @@ print(2+2)
 #Variable is a named container that stores a value. In R we assign values using the <- operator (preferred) or =
 
 #Examples
-name <- "Enter your name"
+name <- "Uwakmfon"
 age <- 1
 height <- 2.5
 
